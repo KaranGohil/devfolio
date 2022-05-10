@@ -1,6 +1,7 @@
 import { Link } from 'gatsby';
 import get from 'lodash/get';
 import React from 'react';
+import pdf from './SE_RESUME.pdf';
 
 import profileImg from '../../images/profile.jpeg';
 
@@ -37,21 +38,36 @@ const Header = ({ metadata = {}, noBlog = false }) => {
         <ul className={classes.list}>
           {resume && (
             <li className={classes.item}>
-              <a className={classes.link} href="./SE_RESUME.pdf" download>
+              <a
+                className={classes.link}
+                href={pdf}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Resume
               </a>
             </li>
           )}
           {github && (
             <li className={classes.item}>
-              <a className={classes.link} href={github}>
+              <a
+                className={classes.link}
+                href={github}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 GitHub
               </a>
             </li>
           )}
           {linkedin && (
             <li className={classes.item}>
-              <a className={classes.link} href={linkedin}>
+              <a
+                className={classes.link}
+                href={linkedin}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 LinkedIn
               </a>
             </li>

@@ -7,11 +7,11 @@ module.exports = {
     // Main Site Title
     title: `Karan Dilipsinh Gohil | Portfolio`,
     // Description that goes under your name in main bio
-    description: `An Upcoming Developer (need rework)`,
+    description: `Software Developer`,
     // Optional: Twitter account handle
     author: `resume`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/KaranGohil`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/karandilipsinhgohil/`,
     // Content of the About Me section
@@ -21,55 +21,63 @@ module.exports = {
       {
         name: 'FocusTime',
         description:
-          'React-Native App which allows you to set timer to focus on a activity',
+          'React-Native App which allows you to set timer to focus on a activity.',
         link: 'https://snack.expo.dev/@karangohil/focustime',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'JobScraper-Indeed',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'An Python application used to scraper job title and description from Indeed. Includes a report containing data analysis on hard skills.',
+        link: 'https://github.com/KaranGohil/JobScraper-Indeed',
       },
       {
-        name: 'Another Cool Project',
+        name: 'IMDBot - Movie Chat Bot',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'An Python application which gets information about movies, actors, directors and many more from IMDB.',
+        link: 'https://github.com/KaranGohil/IMDBot-Movie-Chat-Bot',
+      },
+      {
+        name: 'Video Game Sales Analysis',
+        description:
+          'Preformed data analysis on video game sales data using Python libraries. Created data visualization in Python and Tableau.',
+        link: 'https://github.com/KaranGohil/IMDBot-Movie-Chat-Bot',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Code Ninjas Kelowna (Co-op)',
+        description: 'Senior Coding Instructor | Januray 2022 - August 2022',
+        link: '',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Campus Wellness and Education - UBCO',
+        description:
+          'Undergraduate Academic Assistant | September 2021 - December 2021',
+        link: '',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'PathVisor',
+        description:
+          'Co-Founder and Marketing Assistant | June 2020 - July 2021',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
-        description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+        name: 'Languages',
+        description: 'JavaScript (ES6+), Python, Java, HTML/CSS, SQL',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Frameworks',
+        description:
+          'React, React Native, Sequelize, Pandas, Seaborn, unittest',
       },
       {
-        name: 'Other',
+        name: 'Developer Tools',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'GitHub, VS Code, Jupyter lab, Replit, Tableau, Microsoft Office, Latex',
       },
     ],
   },

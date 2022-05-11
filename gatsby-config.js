@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `cheery-pastelito-e6e869.netlify.app`,
+    siteUrl: `karangohil.netlify.app`,
     // Your Name
     name: 'Karan Dilipsinh Gohil',
     // Main Site Title

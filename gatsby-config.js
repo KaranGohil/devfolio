@@ -15,11 +15,11 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/karandilipsinhgohil/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm a software developer from the University of British Columbia - Okanagan. I'm also passionate about making bots to automate tasks, data analysis and data representation. Recently, I have been learning React and React Native. My current goal is to learn how to make mobile applications using React Native. Looking to expand my skill set by contributing to a growth-oriented company.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'FocusTime',
+        name: 'FocusTime (In progress)',
         description:
           'React-Native App which allows you to set timer to focus on a activity.',
         link: 'https://snack.expo.dev/@karangohil/focustime',
@@ -72,12 +72,12 @@ module.exports = {
       {
         name: 'Frameworks',
         description:
-          'React, React Native, Sequelize, Pandas, Seaborn, unittest',
+          'React, React Native, Sequelize, Pandas, Numpy, Matplotlib, Seaborn, unittest',
       },
       {
         name: 'Developer Tools',
         description:
-          'GitHub, VS Code, Jupyter lab, Replit, Tableau, Microsoft Office, Latex',
+          'GitHub, VS Code, Postman, Jupyter lab, Replit, Tableau, Microsoft Office, Latex',
       },
     ],
   },

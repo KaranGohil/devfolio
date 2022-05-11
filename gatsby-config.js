@@ -33,7 +33,7 @@ module.exports = {
       {
         name: 'IMDBot - Movie Chat Bot',
         description:
-          'An Python application which gets information about movies, actors, directors and many more from IMDB.',
+          'A bot made in Python which gets information about movies, actors, directors and many more from IMDB.',
         link: 'https://github.com/KaranGohil/IMDBot-Movie-Chat-Bot',
       },
       {

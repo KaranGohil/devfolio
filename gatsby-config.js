@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/karandilipsinhgohil/`,
     // Content of the About Me section
-    about: `I'm a software developer from the University of British Columbia - Okanagan. I'm also passionate about making bots to automate tasks, data analysis and data representation. Recently, I have been learning React and React Native. My current goal is to learn how to make mobile applications using React Native.`,
+    about: `I'm a computer science major from the University of British Columbia - Okanagan. I'm also passionate about making bots to automate tasks, data analysis and data representation. Recently, I have been learning React and React Native. My current goal is to learn how to make mobile applications using React Native.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {

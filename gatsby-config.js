@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Karan Dilipsinh Gohil | Portfolio`,
     // Description that goes under your name in main bio
-    description: `Software Developer`,
+    description: `Computer Science Major`,
     // Optional: Twitter account handle
     author: `resume`,
     // Optional: Github account URL

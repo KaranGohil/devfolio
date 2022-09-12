@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/karandilipsinhgohil/`,
     // Content of the About Me section
-    about: `I'm a computer science major from the University of British Columbia - Okanagan. I'm also passionate about making bots to automate tasks, data analysis and data representation. Currently, I have been learning React and Firebase.`,
+    about: `I'm a computer science major from the University of British Columbia - Okanagan. I'm also passionate about making bots to automate tasks, data analysis/visualization and Web Development. Currently, I have been learning React and Firebase.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -53,7 +53,7 @@ module.exports = {
     experience: [
       {
         name: 'Code Ninjas Kelowna (Co-op)',
-        description: 'Coding Instructor/Developer | Januray 2022 - August 2022',
+        description: 'Coding Instructor/Developer | Januray 2022 - December 2022',
         link: '',
       },
       {
@@ -78,7 +78,7 @@ module.exports = {
       {
         name: 'Frameworks',
         description:
-          'React, Charkra UI, Firebase, React Native, Sequelize, Pandas, Numpy, Matplotlib, Seaborn, unittest',
+          'React, Charkra UI, Firebase, React Native, React Router, Formik, Context API, Sequelize, Pandas, Numpy, Matplotlib, Seaborn, unittest',
       },
       {
         name: 'Developer Tools',

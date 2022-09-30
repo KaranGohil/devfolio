@@ -19,13 +19,13 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Game of the Month',
+        name: 'Game of the Month (In progress)',
         description:
-          'A React App designed based on CRUD operations and Email Authentication with Firebase.',
+          'A React App designed based on CRUD operations and Email Authentication with Firebase. Designed for Code Ninjas Kelowna.',
         link: '',
       },
       {
-        name: 'FocusTime (In progress)',
+        name: 'FocusTime',
         description:
           'React-Native App which allows you to set timer to focus on a activity.',
         link: 'https://snack.expo.dev/@karangohil/focustime',
